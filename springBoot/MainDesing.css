@@ -1,0 +1,37 @@
+.buttonDiv{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+h3 {
+    
+    text-align: center;
+    border: 2px solid #000; /* Çerçeve rengi ve kalınlığı */
+    padding: 10px; /* Metin ile çerçeve arasındaki iç boşluk */
+    
+}
+
+.headDiv{
+    
+        margin-top: 20px;
+        margin-left: 2%;
+        margin-right: 2%;
+    
+}
+
+label {
+    display: inline-block; /* input ile yan yana yazabilmek için. */
+    width: 150px;
+    margin-left: 2%;
+    font-weight: bold;
+  }
+  input {
+    display: inline-block;
+    width: 200px; 
+    margin-left: 2%;
+    
+  }
+.marriedLabel{
+    font-weight: lighter;
+    margin-left: 0px;
+}
